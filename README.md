@@ -25,7 +25,7 @@ Liftoff is an interview preparation tool that provides AI feedback on your mock 
 You can also clone & create this repo locally with the following command:
 
 ```bash
-npx create-next-app liftoff --example "https://github.com/Tameyer41/liftoff"
+npx create-next-app liftoff --example "(https://github.com/37-AN/43v3r3ady)"
 ```
 
 ## Tech Stack + Features
